@@ -1,0 +1,19 @@
+{
+  "name": "esse-vai",
+  "version": "1.0.0",
+  "description": "g# esse-vai\r esse vai\r oaoapapapa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edukirakiller/esse-vai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edukirakiller/esse-vai/issues"
+  },
+  "homepage": "https://github.com/Edukirakiller/esse-vai#readme"
+}
